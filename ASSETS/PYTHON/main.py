@@ -11,14 +11,6 @@ Comentáriaos de múltiplas linhas
 # Comando para escrever algo
 print('Olá, Mundo!!')
 
-
-# Operações, e escrever elas na tela
-
-# Adição
-print(7+3)
-
-
-
 # Variáveis
 
 nome ='Miguel'
@@ -42,3 +34,31 @@ pesoi = input('Quanto você pesa? ')
 
 # Como descobrir o tipo primitivo da variável
 print(type(idadei))
+
+
+
+# Operações, e escrever elas na tela
+
+#Adição
+print(7+3)
+
+#Subtração
+print(15-5)
+
+#Multiplicação
+print(5*2)
+
+#Divisão
+print(30/3)
+
+#Divisão inteira
+print(20//2)
+
+#Módulo, ou resto da divisão
+print(25%3)
+
+#Potência
+print(10**10)
+
+#Raiz
+print(64**(1/3))
