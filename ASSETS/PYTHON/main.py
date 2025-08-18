@@ -36,6 +36,10 @@ pesoi = input('Quanto você pesa? ')
 print(type(idadei))
 
 
+"""   Obs: "\n" serve para uma quebra de linha no print (ir para a linha debaixo)
+      ex: 
+"""
+print('Olá, \nMundo!!')
 
 # Operações, e escrever elas na tela
 
