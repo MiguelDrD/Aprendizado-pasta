@@ -1,5 +1,9 @@
 
 
+/*Comentário em JS */
+
+/**/
+
 /* Primeiros Comandos */ 
 
 window.alert('Olá Mundo')
